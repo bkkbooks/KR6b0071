@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0071/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 猘狗經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T04/T04n0214.xml
+    old_id: T04n0214
+hash: sha256:d1b58e900904a75fbb4afd6dfbe5ade4442d8d4a36907c5c68ec92f2c95ba877
